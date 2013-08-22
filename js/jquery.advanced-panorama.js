@@ -1,9 +1,16 @@
 /* =========================================================
-// jquery.panorama.js
+// JQuery-Virtual-Tour
+// based on jquery.panorama.js
+//
+// Original Author:
 // Author: OpenStudio (Arnault PACHOT)
 // Mail: apachot@openstudio.fr
 // Web: http://www.openstudio.fr
 // Copyright (c) 2008 Arnault Pachot
+//
+//
+// Several feature improvements
+// Copyright (c) 2013 Christian Jonak (christian@jonak.org)
 // licence : GPL
 ========================================================= */
 
